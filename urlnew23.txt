@@ -1,0 +1,56 @@
+https://en.wikipedia.org/wiki/Game_of_Thrones
+https://en.wikipedia.org/wiki/List_of_Game_of_Thrones_episodes
+www.mirror.co.uk/tv/tv-news/hbo-confirms-game-thrones-end-8528751
+www.thewrap.com/how-many-seasons-of-game-of-thrones-are-left/
+www.forbes.com/.../how-many-seasons-of-game-of-thrones-can-we- realistically-expect-from-hbo/
+www.express.co.uk/.../game-of-thrones-season-7-series-8-how-many- episodes-count-got
+https://www.quora.com/How-many-seasons-will-Game-of-Thrones-have
+www.eonline.com/.../game-of-thrones-bosses-confirm-that-seasons-7-and-8- will-be-shorter-than-ever-before
+www.imdb.com/title/tt0944947/
+www.cosmopolitan.com/.../game-of-thrones-season-7-episodes-cast-movie- everything-you-need-to-know/
+
+
+
+
+
+The Ubuntu release that will be delivered in April 2017, designated 17.04.
+
+http://releases.ubuntu.com/17.04/ (Ubuntu Desktop and ... http://cloud-images.
+ubuntu.com/releases/17.04/release/ ...
+
+20 Apr 2017 ... 17.04 Release Notes. Getting Ubuntu GNOME 17.04. Minimum System 
+Requirements; Download Disk Image; Check MD5SUM; Upgrade.
+
+There is an issue with the nvidia driver and kernel 4.10. I resolved by installing 
+recently released driver 381.09 sudo add-apt-repository -y ...
+
+Guys I upgraded my ubuntu from 16.04 to 17.04 and I am having this ..... As a 
+start, can you tell us what theme this is?. It looks like Arc Dark to me.
+
+Once I upgraded to Ubuntu 17.04 from 16.10, I started having disk ... See 
+askubuntu.com/questions/905710 ... That bug report seems to apply ...
+
+Known problems (already during installation):. no binary packages available (the 
+buildfarm doesn't build them for 17.04, as is stated on the install wiki ...
+
+Version. Ubuntu Budgie v17.04 (zesty) Released: April 13th 2017. A significant 
+portion of this development cycle has been spent integrating with the Canonical ...
+
+17 Apr 2017 ... I installed the newly released Ubuntu 17.04 and have been using it for ... number 
+of other issues, not just when its having DNS issues (for non ...
+
+13 Apr 2017 ... Ubuntu MATE 17.04 (Zesty Zapus) Final Release. ... This is our known list of bugs 
+that affects all flavours. dnsmasq-base is not installed which ...
+
+
+
+
+
+
+
+
+
+
+
+
+Next
